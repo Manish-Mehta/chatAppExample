@@ -1,0 +1,25 @@
+{
+  "name": "chatAppExample",
+  "version": "1.0.0",
+  "description": "Simple chat app built with node.js and socket.io",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Manish-Mehta/chatAppExample.git"
+  },
+  "author": "Manish-Mehta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Manish-Mehta/chatAppExample/issues"
+  },
+  "homepage": "https://github.com/Manish-Mehta/chatAppExample",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "socket.io": "^2.0.4"
+  }
+}
